@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">App Notes Android</string>
+    <string name="App_notes_titles">Bienvenidos </string>
+    <string name="App_notes_categories">categorias </string>
+    <string name="App_notes_tasks">Notas </string>
+    <string name="Dialog_add_task">Añade la tarea</string>
+    <string name="dialog_category_business">Negocios</string>
+    <string name="dialog_category_other">Otros</string>
+    <string name="dialog_category_personal">Personal</string>
+    <string name="dialog_button_add_task">Crear Tarea</string>
+
+
+
+</resources>
